@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este projeto tem como objetivo criar um modelo de aprendizado de máquina para classificar automaticamente imagens de roupas em diferentes categorias. Utilizamos uma rede neural para processar e classificar as imagens com base em um conjunto de dados rotulado.
+Este projeto tem como objetivo criar um modelo de deep learning para classificar automaticamente imagens de roupas em diferentes categorias. Utilizamos uma rede neural para processar e classificar as imagens com base em um conjunto de dados rotulado.
 
 ## Objetivos
 
